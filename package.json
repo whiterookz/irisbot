@@ -1,0 +1,16 @@
+{
+  "name": "irisbot",
+  "version": "1.0.0",
+  "description": "Hangout bot",
+  "main": "brain.js",
+  "scripts": {
+   "start": "node app.js"
+ },
+  "author": "",
+  "license": "ISC"
+  "dependencies": {
+   "express": "^4.15.3",
+   "hangouts-bot": "^0.2.1",
+   "request": "^2.81.0"
+ }
+}
